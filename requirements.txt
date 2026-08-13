@@ -3,3 +3,4 @@ chromadb
 pypdf
 pydantic-settings
 fastapi
+ollama
